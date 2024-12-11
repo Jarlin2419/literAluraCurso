@@ -1,7 +1,7 @@
 # literAluraCurso
 literAlura
 Biblioteca Literaria - LiterAlura
-Proyecto de biblioteca de libros desarrollado en Java con Spring Boot y Gradle que permite almacenar y gestionar información de libros a través de una API y realizar búsquedas en una base de datos PostgreSQL.
+Proyecto de biblioteca de libros desarrollado en Java con Spring Boot y Maven que permite almacenar y gestionar información de libros a través de una API y realizar búsquedas en una base de datos PostgreSQL.
 
 Características
 Consulta de libros: Busca libros por título, autores, idioma, temas y número de descargas.
